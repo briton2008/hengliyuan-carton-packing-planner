@@ -1,6 +1,6 @@
 # Hengliyuan Carton Packing Planner
 
-[在线演示](https://briton2008.github.io/hengliyuan-carton-packing-planner/) · [官网工具](https://heng-li-yuan.com/tools/carton-packing-planner/) · [English](README.md)
+[公司官网](https://heng-li-yuan.com/) · [在线演示](https://briton2008.github.io/hengliyuan-carton-packing-planner/) · [官网工具](https://heng-li-yuan.com/tools/carton-packing-planner/) · [English](README.md)
 
 本仓库只有这一项工具，独立安装、部署和维护版本，不包含其他两个工具或复配成本计算器。界面为英文。
 

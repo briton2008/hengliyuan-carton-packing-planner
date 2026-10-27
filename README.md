@@ -2,9 +2,11 @@
 
 [![CI](https://github.com/briton2008/hengliyuan-carton-packing-planner/actions/workflows/ci.yml/badge.svg)](https://github.com/briton2008/hengliyuan-carton-packing-planner/actions/workflows/ci.yml) [![Pages](https://github.com/briton2008/hengliyuan-carton-packing-planner/actions/workflows/pages.yml/badge.svg)](https://github.com/briton2008/hengliyuan-carton-packing-planner/actions/workflows/pages.yml) [![Release](https://img.shields.io/github/v/release/briton2008/hengliyuan-carton-packing-planner)](https://github.com/briton2008/hengliyuan-carton-packing-planner/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**[Live demo](https://briton2008.github.io/hengliyuan-carton-packing-planner/) · [Official company tool](https://heng-li-yuan.com/tools/carton-packing-planner/) · [中文](README.zh-CN.md)**
+**[Company website](https://heng-li-yuan.com/) · [Live demo](https://briton2008.github.io/hengliyuan-carton-packing-planner/) · [Official company tool](https://heng-li-yuan.com/tools/carton-packing-planner/) · [中文](README.zh-CN.md)**
 
-![Hengliyuan Carton Packing Planner](assets/social-preview.png)
+[![Hengliyuan Carton Packing Planner](assets/team-cover-en.png)](https://heng-li-yuan.com/)
+
+Click the illustrated cover to visit the company website.
 
 Plan single-SKU cartons or a mixed single-carton trial from measured packs, with interactive 3D and PDF. An independent, English-language browser project maintained by Guilin Hengliyuan Biotech Co., Ltd. No login or automatic submissions.
 
