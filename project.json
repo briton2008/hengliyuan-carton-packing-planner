@@ -1,0 +1,23 @@
+{
+  "repo": "hengliyuan-carton-packing-planner",
+  "title": "Hengliyuan Carton Packing Planner",
+  "short": "Measured packs to a 3D carton plan",
+  "slug": "carton-packing-planner",
+  "component": "carton-packing",
+  "description": "Plan single-SKU cartons or a mixed single-carton trial from measured packs, with interactive 3D and PDF.",
+  "features": [
+    "Single-SKU uniform orientation grids, optional order cartons and final carton.",
+    "Mixed one-carton trial with unplaced counts; no order-level extrapolation.",
+    "Customer-selected orientation/layers, optional measured gross limit, 3D angle/layer/SKU views and company PDF."
+  ],
+  "limit": "Rectangular-envelope heuristics do not prove global optimality, physical support, carton strength, safe handling, pallet or container suitability.",
+  "topics": [
+    "bin-packing",
+    "3d-visualization",
+    "packaging",
+    "logistics",
+    "react",
+    "vite",
+    "open-source"
+  ]
+}
